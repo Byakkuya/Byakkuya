@@ -5,7 +5,7 @@ My name is ahmed and I'm a computer science student from Canada. Here's some inf
 🌱 Interests:
 
 Web development(front-end)
-gaming 
+
 
 
 💬 Reach me by email or LinkedIn! contact.ahmedzbaa@gmail.com | https://www.linkedin.com/in/ahmed-zbaa-7214a6229/
