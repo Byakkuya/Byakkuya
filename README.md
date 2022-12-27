@@ -1,6 +1,6 @@
 Hi there 👋
-My name is Matthew and I'm a computer science student from Canada. Here's some info about me!
-- 
+My name is ahmed and I'm a computer science student from Canada. Here's some info about me!
+
 
 🌱 Interests:
 
