@@ -4,7 +4,8 @@ My name is ahmed and I'm a computer science student from Tunisia. Here's some in
 
 🌱 Interests:
 
-Web development(front-end)
+-Web development(front-end)
+-AI
 
 
 
