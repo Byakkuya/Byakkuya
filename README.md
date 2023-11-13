@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **contact.ahmedzbaa@gmail.com**
 
-- ⚡ Fun fact **i can join tables XD**
+- Portfolio : https://byakkuya.github.io/MyPortfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
