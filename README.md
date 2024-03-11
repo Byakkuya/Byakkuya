@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A Software developer from Tunisia</h3>
+<h3 align="center">A Web developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **react and node js**
+- 🌱 I’m currently mastering **mern and t3stack**
 
 - 📫 How to reach me **contact.ahmedzbaa@gmail.com**
 
