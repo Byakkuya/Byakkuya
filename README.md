@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A Web developer from Tunisia</h3>
 
+![Alt Text](https://gifdb.com/images/high/deku-crazily-running-pywn43bdvj0nb96w.gif)
+
 - 🌱 I’m currently mastering **mern and t3stack**
 
 - 📫 How to reach me **contact.ahmedzbaa@gmail.com**
