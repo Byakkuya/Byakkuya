@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://byakkuya.github.io/MyPortfolio/" target="blank">
 Ahmed</a></h1>
-<h3 align="center">A Web App developer from Tunisia &#127470;&#127475</h3>
+<h3 align="center">A Web App developer from Tunisia</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="200" alt="GIF" src="https://gifdb.com/images/high/cute-midoriya-smiling-9hkmsrngek1g9gx3.gif">
@@ -16,19 +16,7 @@ Ahmed</a></h1>
 - Portfolio: https://byakkuya.github.io/MyPortfolio/
 
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-
-<p align="center">
-
-  
-    
-   [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ahmed-zbaa/)](https://www.linkedin.com/in/Ahmed-zbaa/) 
-   [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.ahmedzbaa@gmail.com)](mailto:contact.ahmedzbaa@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ahmedsvault)](https://instagram.com/ahmedsvault) 
-   [![Facebook Badge](https://img.shields.io/badge/-facebook-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/narmersama)](https://www.facebook.com/narmersama)
-   
-</p>
 
 ---
 
