@@ -34,7 +34,7 @@ I am 21 years old and I major in Computer Science  at University of Monastir, Tu
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,docker,express,figma,firebase,github,html,idea,java,js,linux,md,materialui,mongodb,mysql,postgres,prisma,supabase,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,notion,webstorm&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,docker,express,figma,github,html,idea,java,js,linux,md,materialui,mongodb,mysql,postgres,prisma,supabase,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,notion,webstorm&perline=14" />
   </a>
 </p>
 
