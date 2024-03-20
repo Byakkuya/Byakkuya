@@ -8,7 +8,12 @@ Ahmed</a></h1>
  <img src="https://komarev.com/ghpvc/?username=byakkuya&label=Profile%20views&color=0e75b6&style=flat"
     alt="byakkuya" />
 
-- 🔭 I’m currently an intern at <a href="https://www.wi-mobi.com" target="blank">WIMOBI</a>
+<!--
+
+ - 🔭 I’m currently an intern at <a href="https://www.wi-mobi.com" target="blank">WIMOBI</a>
+
+-->
+
 - 🌱 I’m currently mastering <b>MERN/PERN and T3Stack</b>
 - 🤝 I’m available for freelancing.
 - 📫 How to reach me **contact.ahmedzbaa@gmail.com**
