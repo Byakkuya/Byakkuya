@@ -55,6 +55,10 @@ I am 21 years old and I major in Computer Science  at University of Monastir, Tu
 ### 🔥 Streak Stats
 
 ![Byakkuya's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Byakkuya&theme=tokyonight)
-
+<!--
 ### 📊 Contribution Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Byakkuya&theme=tokyo-night)](https://github.com/Byakkuya/github-readme-activity-graph)
+
+-->
+
+
