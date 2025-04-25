@@ -13,13 +13,18 @@
 
 ### 👨‍💻 About Me
 
-- 💡 I’m a fullstack TS developer passionate about crafting modern, scalable web apps.
-- 🔍 Currently mastering the **MERN**, **PERN**, and **T3** stacks.
-- 🧰 Also exploring **DevOps**, **AZURE**, and **CI/CD pipelines**.
+- 💡 I’m a fullstack TS developer **Next**, **Nest**,**T3** stack. passionate about crafting modern, scalable web apps.
+- 🔍 Currently mastering the **AZURE** and **Kubernetes**.
+- 🚀 Proud creator of **OneSpace** – an innovative platform for ambitious developers and dreamers.
 - 💼 Open for **freelance projects** and tech collaborations.
 - 📬 Let's connect: **contact.ahmedzbaa@gmail.com**
 - 🌐 Portfolio: [byakkuya.github.io/MyPortfolio](https://byakkuya.github.io/MyPortfolio/) (wait for updates)
 
+### ✨ Motto
+
+> *"Turning ideas into clean, meaningful code — one pixel at a time."*
+
+---
 <!-- 
 🔭 I'm currently interning at <a href="https://www.wi-mobi.com" target="_blank">WIMOBI</a> 
 -->
@@ -37,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,idea,linux,notion,postman,md,githubactions,jest&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,idea,linux,notion,postman,md,githubactions,jest,&perline=10" />
   </a>
 </p>
 
