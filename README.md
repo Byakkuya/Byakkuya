@@ -15,14 +15,14 @@
 
 - 💡 I’m a fullstack TS developer **Next**, **Nest**,**T3** stack. passionate about crafting modern, scalable web apps.
 - 🔍 Currently mastering the **AZURE** and **Kubernetes**.
-- 🚀 Proud creator of **OneSpace** – an innovative platform for ambitious developers and dreamers.
+- 🚀 Proud creator of **OneSpace** – A platform where you can create your own Custom productivity zone
 - 💼 Open for **freelance projects** and tech collaborations.
 - 📬 Let's connect: **contact.ahmedzbaa@gmail.com**
 - 🌐 Portfolio: [byakkuya.github.io/MyPortfolio](https://byakkuya.github.io/MyPortfolio/) (wait for updates)
 
 ### ✨ Motto
 
-> *"Turning ideas into clean, meaningful code — one pixel at a time."*
+> *"I put a lot of pressure on myself. I think something's not good enough, and I won't stop until I feel like I've made it. - J.Cole"*
 
 ---
 <!-- 
